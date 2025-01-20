@@ -138,9 +138,3 @@ docker run -p 5000:5000 mlp_deployment
 1. Add advanced hyperparameter tuning.
 2. Integrate more complex models (e.g., CNNs for ECG data).
 3. Include real-time data streaming for predictions.
-
----
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
