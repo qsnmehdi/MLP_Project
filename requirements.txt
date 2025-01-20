@@ -1,0 +1,7 @@
+tensorflow
+flask
+pandas
+numpy
+scikit-learn
+pickle-mixin
+requests
